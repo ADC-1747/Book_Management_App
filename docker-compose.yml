@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  book-dashboard:
+    build:
+      context: .
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_URL=http://json-server:3000/books
+    depends_on:
+      - json-server
+
+  json-server:
+    image: clue/json-server
+    ports:
+      - "3001:3000"
+    volumes:
+      - ./json_data:/data
+    entrypoint: ["json-server"]
+    command: ["--watch", "/data/db.json", "--port", "3000"]
+    restart: unless-stopped
+
+volumes:
+  json_data:

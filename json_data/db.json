@@ -1,0 +1,212 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Adventure",
+      "author": "Alice Walker",
+      "genre": "Adventure",
+      "publishedYear": 2010,
+      "status": "Available"
+    },
+    {
+      "id": 2,
+      "title": "Mystery of the Lost Village",
+      "author": "Robert Lang",
+      "genre": "Mystery",
+      "publishedYear": 2015,
+      "status": "Issued"
+    },
+    {
+      "id": 3,
+      "title": "Science Simplified",
+      "author": "Emma Clark",
+      "genre": "Science",
+      "publishedYear": 2018,
+      "status": "Available"
+    },
+    {
+      "id": 4,
+      "title": "History Unfolded",
+      "author": "Michael Green",
+      "genre": "History",
+      "publishedYear": 2012,
+      "status": "Available"
+    },
+    {
+      "id": 5,
+      "title": "Romance in Paris",
+      "author": "Sophie Turner",
+      "genre": "Romance",
+      "publishedYear": 2017,
+      "status": "Issued"
+    },
+    {
+      "id": 6,
+      "title": "The Space Chronicles",
+      "author": "David Smith",
+      "genre": "Science Fiction",
+      "publishedYear": 2014,
+      "status": "Available"
+    },
+    {
+      "id": 7,
+      "title": "Cooking with Love",
+      "author": "Rachel Adams",
+      "genre": "Cooking",
+      "publishedYear": 2011,
+      "status": "Available"
+    },
+    {
+      "id": 8,
+      "title": "The Art of Painting",
+      "author": "Leonardo Gray",
+      "genre": "Art",
+      "publishedYear": 2013,
+      "status": "Issued"
+    },
+    {
+      "id": 9,
+      "title": "Meditation and Mindfulness",
+      "author": "Lily Evans",
+      "genre": "Self-Help",
+      "publishedYear": 2019,
+      "status": "Available"
+    },
+    {
+      "id": 10,
+      "title": "World Atlas",
+      "author": "James Lee",
+      "genre": "Reference",
+      "publishedYear": 2016,
+      "status": "Available"
+    },
+    {
+      "id": 11,
+      "title": "Thrill Seekers",
+      "author": "Tom Harris",
+      "genre": "Thriller",
+      "publishedYear": 2020,
+      "status": "Issued"
+    },
+    {
+      "id": 12,
+      "title": "Gardening 101",
+      "author": "Emma Watson",
+      "genre": "Hobby",
+      "publishedYear": 2018,
+      "status": "Available"
+    },
+    {
+      "id": 13,
+      "title": "The Coding Manual",
+      "author": "Chris Nolan",
+      "genre": "Technology",
+      "publishedYear": 2021,
+      "status": "Available"
+    },
+    {
+      "id": 14,
+      "title": "Philosophy for Beginners",
+      "author": "Sophia King",
+      "genre": "Philosophy",
+      "publishedYear": 2013,
+      "status": "Issued"
+    },
+    {
+      "id": 15,
+      "title": "Poetry in Motion",
+      "author": "Henry Blake",
+      "genre": "Poetry",
+      "publishedYear": 2015,
+      "status": "Available"
+    },
+    {
+      "id": 16,
+      "title": "The Detective's Diary",
+      "author": "Laura White",
+      "genre": "Mystery",
+      "publishedYear": 2017,
+      "status": "Available"
+    },
+    {
+      "id": 17,
+      "title": "Healthy Living",
+      "author": "Mark Allen",
+      "genre": "Health",
+      "publishedYear": 2012,
+      "status": "Issued"
+    },
+    {
+      "id": 18,
+      "title": "Travel the World",
+      "author": "Nina Roberts",
+      "genre": "Travel",
+      "publishedYear": 2016,
+      "status": "Available"
+    },
+    {
+      "id": 19,
+      "title": "Financial Freedom",
+      "author": "Olivia Brown",
+      "genre": "Finance",
+      "publishedYear": 2019,
+      "status": "Available"
+    },
+    {
+      "id": 20,
+      "title": "Wildlife Wonders",
+      "author": "Peter Johnson",
+      "genre": "Nature",
+      "publishedYear": 2014,
+      "status": "Issued"
+    },
+    {
+      "id": 21,
+      "title": "The Haunted Manor",
+      "author": "Clara Hughes",
+      "genre": "Horror",
+      "publishedYear": 2020,
+      "status": "Available"
+    },
+    {
+      "id": 22,
+      "title": "Building Bridges",
+      "author": "Alan Foster",
+      "genre": "Engineering",
+      "publishedYear": 2013,
+      "status": "Available"
+    },
+    {
+      "id": 23,
+      "title": "Digital Photography",
+      "author": "Hannah Lee",
+      "genre": "Photography",
+      "publishedYear": 2018,
+      "status": "Issued"
+    },
+    {
+      "id": 24,
+      "title": "Learning Languages",
+      "author": "George Collins",
+      "genre": "Education",
+      "publishedYear": 2015,
+      "status": "Available"
+    },
+    {
+      "id": 25,
+      "title": "Mind Games",
+      "author": "Victoria Scott",
+      "genre": "Psychology",
+      "publishedYear": 2021,
+      "status": "Available"
+    },
+    {
+      "title": "Think and Grow Rich",
+      "author": "Napolean Hill",
+      "genre": "Self Improvement",
+      "publishedYear": "1937",
+      "status": "Available",
+      "id": 26
+    }
+  ]
+}
